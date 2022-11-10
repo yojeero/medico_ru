@@ -1,6 +1,6 @@
 
 
-<img src="preview/view.jpg" width="820" height="546">
+<img src="preview/view.jpg">
 
 ## [Dentoo](https://dentoo-ru.vercel.app/) многостраничный или лэндинг сайт по стоматологии или любой медицинской тематике. ##
 
