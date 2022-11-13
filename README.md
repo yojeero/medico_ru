@@ -1,15 +1,13 @@
 
+<img src="preview/pic.jpg">
 
-<img src="preview/view.jpg">
-
-## [Dentoo](https://dentoo-ru.vercel.app/) многостраничный или лэндинг сайт по стоматологии или любой медицинской тематике. ##
-
+### [Medico](https://medico_ru.vercel.app/) многостраничный или лэндинг сайт по стоматологии или любой медицинской тематике. ###
 
 ```
 Features
 ```
 
-- Dentoo основан на новейшем CSS Grid Layout
+- Medico основан на новейшем CSS Grid Layout
 - Чистый, современный и индивидуальный дизайн
 - HTML5, CSS3, jQuery, иконки SVG 
 - Google шрифты и карты
