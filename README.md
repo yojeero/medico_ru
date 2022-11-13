@@ -1,7 +1,7 @@
 
 <img src="preview/pic.jpg">
 
-### [Medico](https://medico_ru.vercel.app/) многостраничный или лэндинг сайт по стоматологии или любой медицинской тематике. ###
+### [Medico](https://medico_ru.vercel.app/) многостраничный или лэндинг сайт по медицинской тематике. ###
 
 ```
 Features
